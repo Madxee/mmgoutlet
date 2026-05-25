@@ -1,0 +1,6 @@
+{
+  "name": "MMG OUTLET Gym",
+  "description": "Premium luxury gym and fitness center homepage for M.M.G OUTLET, featuring dynamic pricing plans, countdown timer, and interactive cinematic styling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
